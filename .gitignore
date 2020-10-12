@@ -330,3 +330,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# c++
+
+*.out
+*.out.dSYM
